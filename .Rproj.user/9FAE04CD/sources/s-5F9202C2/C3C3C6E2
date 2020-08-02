@@ -1,0 +1,32 @@
+{
+    "id": "C3C3C6E2",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1596385947972.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "mpg",
+        "caption": "mpg",
+        "totalObservations": 234,
+        "displayedObservations": 234,
+        "variables": 11,
+        "cacheKey": "3D4D291E",
+        "object": "mpg",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=mpg&cache_key=3D4D291E&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7598543875866245746,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596385947972,
+    "read_only": false,
+    "read_only_alternatives": []
+}
