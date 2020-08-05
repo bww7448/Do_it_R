@@ -41,4 +41,4 @@ ggplot(data = mpg_graph, aes(x = reorder(manufacturer, -mean_cty), y = mean_cty)
 
 ggplot(data = mpg_ex, aes(x = class)) + geom_bar()
 
-mpg_ex2 <-mpg_ex %>%  
+
