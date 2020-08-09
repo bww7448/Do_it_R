@@ -106,3 +106,5 @@ mean(midwest_ex$ratio)
 midwest_ex$capa <- ifelse(midwest_ex$ratio >= mean(midwest_ex$ratio), "large", "small")
 table(midwest_ex$capa)
 qplot(midwest_ex$capa)
+
+
